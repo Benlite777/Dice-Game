@@ -1,0 +1,47 @@
+.container
+{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+body
+{
+    background-color: grey;
+}
+
+h1
+{
+    margin: 30px;
+    color: green;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+}
+.dice
+{
+    text-align: center;
+    display: inline-block;  
+}
+
+p
+{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: fantasy;
+    padding: 2rem;
+}
+
+.img
+{
+    width: 80%;
+
+    
+}
+
+footer
+{
+    margin-top: 5%;
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
